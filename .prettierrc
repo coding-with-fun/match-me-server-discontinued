@@ -6,5 +6,6 @@
   "proseWrap": "preserve",
   "printWidth": 80,
   "arrowParens": "always",
-  "singleQuote": true
+  "singleQuote": true,
+  "endOfLine": "auto"
 }
